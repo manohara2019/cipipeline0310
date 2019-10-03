@@ -1,0 +1,3 @@
+Hello
+This is my fiorst program
+to test the new-image
